@@ -4,6 +4,6 @@ function menciona (texto, palabra){
 let resultado = menciona ("Tengo el cerebro quemado", "cerebro")
 console.log (resultado)
 
-let frase = 'Hola!, soy Carli';
+//let frase = 'Hola!, soy Carli';
 let licenciada = frase.slice (11, 15)
 console.log(licenciada)
