@@ -1,0 +1,1 @@
+console.log("en este archivo vamos a crear nuestros conflictos")
